@@ -67,8 +67,9 @@ Docs/ → Optional project documentation
 ---
 
 ## Author
+```
 **Crispus Omollo** – Information Systems Specialist
 Email: crispusomollo@gmail.com
 LinkedIn: [linkedin.com/in/crispusomollo](https://linkedin.com/in/crispusomollo)
-
+```
 
