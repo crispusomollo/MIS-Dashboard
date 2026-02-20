@@ -26,13 +26,13 @@ Avg_Order_Value = DIVIDE([total_sales], [total_orders], 0)
 
 ## Step 3 — Build Dashboard Visuals
 
-** 1. KPI Cards **
+**1. KPI Cards**
 
 - Total Sales
 - Total Orders
 - Average Order Value
 
-** 2. Monthly Trend Line Chart **
+**2. Monthly Trend Line Chart**
 ```
 X-axis → month_name
 
@@ -41,7 +41,7 @@ Y-axis → total_sales
 Legend → region
 ```
 
-** 3 Top Customers Table / Bar Chart **
+**3 Top Customers Table / Bar Chart**
 
 Use Challenge 4 output (ranked top 3 customers per month)
 ```
@@ -50,7 +50,7 @@ Columns → month_name, name, total_sales, rank
 Add slicers → month_name, region
 ```
 
-** 4. Region-Month Matrix **
+**4. Region-Month Matrix**
 ```
 Rows → region
 
